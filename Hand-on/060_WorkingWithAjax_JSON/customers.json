@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": " Phing Phing",
+    "company": "Ch School",
+    "phone": "654-559-123"
+  },
+  {
+    "id": 2,
+    "name": " Aye Aye",
+    "company": "Aurala",
+    "phone": "555-222-5555"
+  },
+  {
+    "id": 3,
+    "name": " Phing Phing",
+    "company": "myDevTH",
+    "phone": "111-222-5555"
+  }
+]
